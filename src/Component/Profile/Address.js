@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+{/*Creating an Address Component with a one line text*/}
 
 function Address() {
   return (

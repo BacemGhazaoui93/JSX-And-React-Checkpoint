@@ -1,5 +1,5 @@
 import React from 'react'
-
+{/*Creating an FullName Component with text*/}
 function FullName() {
   return (
     <div>
